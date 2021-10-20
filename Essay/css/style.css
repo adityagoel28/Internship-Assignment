@@ -1,0 +1,14 @@
+body{
+	background-color: beige;
+}
+#stopwatch {
+    font-size: 1em;
+    transform: translate(-50%, -55%);
+    display: inline;
+}
+#buttons {
+    transform: translate(-51.6%, -45%);
+}
+/* span{
+    font-size:0px;
+} */
